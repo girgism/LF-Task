@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ElectronicsApp.Server.props" />
+</Project>

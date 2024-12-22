@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ElectronicsApp.Server/GeneratedClient/specification.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GeneratedClient\specification.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Q2o8xDnicHegLLZpxqmLJoxNNRBdFl64t1ipjzVw2uU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"23379"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022Q2o8xDnicHegLLZpxqmLJoxNNRBdFl64t1ipjzVw2uU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 22 Dec 2024 02:11:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ElectronicsApp.Server/GeneratedClient/specification.tgazydkyfe.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GeneratedClient\specification.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tgazydkyfe"},{"Name":"integrity","Value":"sha256-Q2o8xDnicHegLLZpxqmLJoxNNRBdFl64t1ipjzVw2uU="},{"Name":"label","Value":"_content/ElectronicsApp.Server/GeneratedClient/specification.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23379"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022Q2o8xDnicHegLLZpxqmLJoxNNRBdFl64t1ipjzVw2uU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 22 Dec 2024 02:11:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

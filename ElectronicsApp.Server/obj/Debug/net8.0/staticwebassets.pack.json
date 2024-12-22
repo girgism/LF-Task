@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Task\\ElectronicsApp\\ElectronicsApp.Server\\wwwroot\\GeneratedClient\\specification.json",
+      "PackagePath": "staticwebassets\\GeneratedClient\\specification.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ElectronicsApp.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ElectronicsApp.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ElectronicsApp.Server.props",
+      "PackagePath": "build\\ElectronicsApp.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ElectronicsApp.Server.props",
+      "PackagePath": "buildMultiTargeting\\ElectronicsApp.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ElectronicsApp.Server.props",
+      "PackagePath": "buildTransitive\\ElectronicsApp.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

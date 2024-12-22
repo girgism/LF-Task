@@ -1,0 +1,12 @@
+D:\Task\ElectronicsApp\Domain.app\bin\Debug\net8.0\Domain.app.deps.json
+D:\Task\ElectronicsApp\Domain.app\bin\Debug\net8.0\Domain.app.dll
+D:\Task\ElectronicsApp\Domain.app\bin\Debug\net8.0\Domain.app.pdb
+D:\Task\ElectronicsApp\Domain.app\obj\Debug\net8.0\Domain.app.csproj.AssemblyReference.cache
+D:\Task\ElectronicsApp\Domain.app\obj\Debug\net8.0\Domain.app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\ElectronicsApp\Domain.app\obj\Debug\net8.0\Domain.app.AssemblyInfoInputs.cache
+D:\Task\ElectronicsApp\Domain.app\obj\Debug\net8.0\Domain.app.AssemblyInfo.cs
+D:\Task\ElectronicsApp\Domain.app\obj\Debug\net8.0\Domain.app.csproj.CoreCompileInputs.cache
+D:\Task\ElectronicsApp\Domain.app\obj\Debug\net8.0\Domain.app.dll
+D:\Task\ElectronicsApp\Domain.app\obj\Debug\net8.0\refint\Domain.app.dll
+D:\Task\ElectronicsApp\Domain.app\obj\Debug\net8.0\Domain.app.pdb
+D:\Task\ElectronicsApp\Domain.app\obj\Debug\net8.0\ref\Domain.app.dll

@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Task\\ElectronicsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|d:\\task\\electronicsapp\\application.app\\features\\productfeature\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|solutionrelative:application.app\\features\\productfeature\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|d:\\task\\electronicsapp\\application.app\\features\\productfeature\\dtos\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|solutionrelative:application.app\\features\\productfeature\\dtos\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7384F8A5-2875-409B-B647-003AAA0ECF1C}|ElectronicsApp.Server\\ElectronicsApp.Server.csproj|d:\\task\\electronicsapp\\electronicsapp.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7384F8A5-2875-409B-B647-003AAA0ECF1C}|ElectronicsApp.Server\\ElectronicsApp.Server.csproj|solutionrelative:electronicsapp.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7384F8A5-2875-409B-B647-003AAA0ECF1C}|ElectronicsApp.Server\\ElectronicsApp.Server.csproj|d:\\task\\electronicsapp\\electronicsapp.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7384F8A5-2875-409B-B647-003AAA0ECF1C}|ElectronicsApp.Server\\ElectronicsApp.Server.csproj|solutionrelative:electronicsapp.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|d:\\task\\electronicsapp\\application.app\\features\\productfeature\\addnewproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|solutionrelative:application.app\\features\\productfeature\\addnewproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F914F754-DF75-4AD4-BF6F-9AC582CE5790}|Domain.app\\Domain.app.csproj|d:\\task\\electronicsapp\\domain.app\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F914F754-DF75-4AD4-BF6F-9AC582CE5790}|Domain.app\\Domain.app.csproj|solutionrelative:domain.app\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F914F754-DF75-4AD4-BF6F-9AC582CE5790}|Domain.app\\Domain.app.csproj|d:\\task\\electronicsapp\\domain.app\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F914F754-DF75-4AD4-BF6F-9AC582CE5790}|Domain.app\\Domain.app.csproj|solutionrelative:domain.app\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|d:\\task\\electronicsapp\\application.app\\features\\productfeature\\dtos\\addnewproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|solutionrelative:application.app\\features\\productfeature\\dtos\\addnewproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|d:\\task\\electronicsapp\\application.app\\features\\categoryfeature\\getcategorybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|solutionrelative:application.app\\features\\categoryfeature\\getcategorybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F6ABCF-93C1-63B0-98A2-C1F37486165A}|electronicsapp.client\\electronicsapp.client.esproj|d:\\task\\electronicsapp\\electronicsapp.client\\src\\app\\shared\\services\\auth.guard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{76F6ABCF-93C1-63B0-98A2-C1F37486165A}|electronicsapp.client\\electronicsapp.client.esproj|solutionrelative:electronicsapp.client\\src\\app\\shared\\services\\auth.guard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|d:\\task\\electronicsapp\\application.app\\features\\categoryfeature\\getallcategoriesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|solutionrelative:application.app\\features\\categoryfeature\\getallcategoriesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F6ABCF-93C1-63B0-98A2-C1F37486165A}|electronicsapp.client\\electronicsapp.client.esproj|d:\\task\\electronicsapp\\electronicsapp.client\\src\\app\\shared\\services\\auth.services.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{76F6ABCF-93C1-63B0-98A2-C1F37486165A}|electronicsapp.client\\electronicsapp.client.esproj|solutionrelative:electronicsapp.client\\src\\app\\shared\\services\\auth.services.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F6ABCF-93C1-63B0-98A2-C1F37486165A}|electronicsapp.client\\electronicsapp.client.esproj|d:\\task\\electronicsapp\\electronicsapp.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{76F6ABCF-93C1-63B0-98A2-C1F37486165A}|electronicsapp.client\\electronicsapp.client.esproj|solutionrelative:electronicsapp.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7384F8A5-2875-409B-B647-003AAA0ECF1C}|ElectronicsApp.Server\\ElectronicsApp.Server.csproj|d:\\task\\electronicsapp\\electronicsapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7384F8A5-2875-409B-B647-003AAA0ECF1C}|ElectronicsApp.Server\\ElectronicsApp.Server.csproj|solutionrelative:electronicsapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7384F8A5-2875-409B-B647-003AAA0ECF1C}|ElectronicsApp.Server\\ElectronicsApp.Server.csproj|d:\\task\\electronicsapp\\electronicsapp.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7384F8A5-2875-409B-B647-003AAA0ECF1C}|ElectronicsApp.Server\\ElectronicsApp.Server.csproj|solutionrelative:electronicsapp.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7384F8A5-2875-409B-B647-003AAA0ECF1C}|ElectronicsApp.Server\\ElectronicsApp.Server.csproj|d:\\task\\electronicsapp\\electronicsapp.server\\electronicsapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7384F8A5-2875-409B-B647-003AAA0ECF1C}|ElectronicsApp.Server\\ElectronicsApp.Server.csproj|solutionrelative:electronicsapp.server\\electronicsapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|d:\\task\\electronicsapp\\application.app\\servicesdependencyinjection\\servicesdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|solutionrelative:application.app\\servicesdependencyinjection\\servicesdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|d:\\task\\electronicsapp\\application.app\\application.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|solutionrelative:application.app\\application.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|d:\\task\\electronicsapp\\application.app\\features\\categoryfeature\\dtos\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|solutionrelative:application.app\\features\\categoryfeature\\dtos\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|d:\\task\\electronicsapp\\application.app\\features\\categoryfeature\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|solutionrelative:application.app\\features\\categoryfeature\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|d:\\task\\electronicsapp\\application.app\\features\\categoryfeature\\dtos\\addcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|solutionrelative:application.app\\features\\categoryfeature\\dtos\\addcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|d:\\task\\electronicsapp\\application.app\\features\\categoryfeature\\dtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|solutionrelative:application.app\\features\\categoryfeature\\dtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|d:\\task\\electronicsapp\\application.app\\features\\categoryfeature\\deletecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|solutionrelative:application.app\\features\\categoryfeature\\deletecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|d:\\task\\electronicsapp\\application.app\\features\\categoryfeature\\addcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059AE82F-470C-41E9-89D7-5367D8EE9BD1}|Application.app\\Application.app.csproj|solutionrelative:application.app\\features\\categoryfeature\\addcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\ElectronicsApp.Server\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ElectronicsApp.Server\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\ElectronicsApp.Server\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ElectronicsApp.Server\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T01:59:34.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\Domain.app\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain.app\\Entities\\Product.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\Domain.app\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain.app\\Entities\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T01:47:38.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddNewProductCommand.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\ProductFeature\\AddNewProductCommand.cs",
+              "RelativeDocumentMoniker": "Application.app\\Features\\ProductFeature\\AddNewProductCommand.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\ProductFeature\\AddNewProductCommand.cs",
+              "RelativeToolTip": "Application.app\\Features\\ProductFeature\\AddNewProductCommand.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T01:51:33.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddNewProductDto.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\ProductFeature\\Dtos\\AddNewProductDto.cs",
+              "RelativeDocumentMoniker": "Application.app\\Features\\ProductFeature\\Dtos\\AddNewProductDto.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\ProductFeature\\Dtos\\AddNewProductDto.cs",
+              "RelativeToolTip": "Application.app\\Features\\ProductFeature\\Dtos\\AddNewProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T01:49:54.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetProductDto.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\ProductFeature\\Dtos\\GetProductDto.cs",
+              "RelativeDocumentMoniker": "Application.app\\Features\\ProductFeature\\Dtos\\GetProductDto.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\ProductFeature\\Dtos\\GetProductDto.cs",
+              "RelativeToolTip": "Application.app\\Features\\ProductFeature\\Dtos\\GetProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T01:46:37.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllProductsQuery.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\ProductFeature\\GetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "Application.app\\Features\\ProductFeature\\GetAllProductsQuery.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\ProductFeature\\GetAllProductsQuery.cs",
+              "RelativeToolTip": "Application.app\\Features\\ProductFeature\\GetAllProductsQuery.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T01:45:08.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetCategoryByIdQuery.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\CategoryFeature\\GetCategoryByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application.app\\Features\\CategoryFeature\\GetCategoryByIdQuery.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\CategoryFeature\\GetCategoryByIdQuery.cs",
+              "RelativeToolTip": "Application.app\\Features\\CategoryFeature\\GetCategoryByIdQuery.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T01:19:48.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "auth.guard.ts",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\electronicsapp.client\\src\\app\\shared\\services\\auth.guard.ts",
+              "RelativeDocumentMoniker": "electronicsapp.client\\src\\app\\shared\\services\\auth.guard.ts",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\electronicsapp.client\\src\\app\\shared\\services\\auth.guard.ts",
+              "RelativeToolTip": "electronicsapp.client\\src\\app\\shared\\services\\auth.guard.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-21T23:46:59.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "auth.services.ts",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\electronicsapp.client\\src\\app\\shared\\services\\auth.services.ts",
+              "RelativeDocumentMoniker": "electronicsapp.client\\src\\app\\shared\\services\\auth.services.ts",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\electronicsapp.client\\src\\app\\shared\\services\\auth.services.ts",
+              "RelativeToolTip": "electronicsapp.client\\src\\app\\shared\\services\\auth.services.ts",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-21T20:38:33.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\electronicsapp.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "electronicsapp.client\\src\\app\\app.component.ts",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\electronicsapp.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "electronicsapp.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-21T20:38:00.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\ElectronicsApp.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ElectronicsApp.Server\\appsettings.Development.json",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\ElectronicsApp.Server\\appsettings.Development.json",
+              "RelativeToolTip": "ElectronicsApp.Server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T18:44:13.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ElectronicsApp.Server",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\ElectronicsApp.Server\\ElectronicsApp.Server.csproj",
+              "RelativeDocumentMoniker": "ElectronicsApp.Server\\ElectronicsApp.Server.csproj",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\ElectronicsApp.Server\\ElectronicsApp.Server.csproj",
+              "RelativeToolTip": "ElectronicsApp.Server\\ElectronicsApp.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T18:43:35.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServicesDependencyInjection.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\Application.app\\ServicesDependencyInjection\\ServicesDependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application.app\\ServicesDependencyInjection\\ServicesDependencyInjection.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\Application.app\\ServicesDependencyInjection\\ServicesDependencyInjection.cs",
+              "RelativeToolTip": "Application.app\\ServicesDependencyInjection\\ServicesDependencyInjection.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:07:38.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Application.app",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\Application.app\\Application.app.csproj",
+              "RelativeDocumentMoniker": "Application.app\\Application.app.csproj",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\Application.app\\Application.app.csproj",
+              "RelativeToolTip": "Application.app\\Application.app.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T18:07:13.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\ElectronicsApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ElectronicsApp.Server\\Program.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\ElectronicsApp.Server\\Program.cs",
+              "RelativeToolTip": "ElectronicsApp.Server\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwE0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:33:11.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateCategoryDto.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\CategoryFeature\\Dtos\\UpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "Application.app\\Features\\CategoryFeature\\Dtos\\UpdateCategoryDto.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\CategoryFeature\\Dtos\\UpdateCategoryDto.cs",
+              "RelativeToolTip": "Application.app\\Features\\CategoryFeature\\Dtos\\UpdateCategoryDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:38:20.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddCategoryDto.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\CategoryFeature\\Dtos\\AddCategoryDto.cs",
+              "RelativeDocumentMoniker": "Application.app\\Features\\CategoryFeature\\Dtos\\AddCategoryDto.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\CategoryFeature\\Dtos\\AddCategoryDto.cs",
+              "RelativeToolTip": "Application.app\\Features\\CategoryFeature\\Dtos\\AddCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:37:50.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\ElectronicsApp.Server\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ElectronicsApp.Server\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\ElectronicsApp.Server\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ElectronicsApp.Server\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:32:53.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DeleteCategoryCommand.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\CategoryFeature\\DeleteCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Application.app\\Features\\CategoryFeature\\DeleteCategoryCommand.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\CategoryFeature\\DeleteCategoryCommand.cs",
+              "RelativeToolTip": "Application.app\\Features\\CategoryFeature\\DeleteCategoryCommand.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:28:34.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllCategoriesQuery.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\CategoryFeature\\GetAllCategoriesQuery.cs",
+              "RelativeDocumentMoniker": "Application.app\\Features\\CategoryFeature\\GetAllCategoriesQuery.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\CategoryFeature\\GetAllCategoriesQuery.cs",
+              "RelativeToolTip": "Application.app\\Features\\CategoryFeature\\GetAllCategoriesQuery.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:20:25.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetCategoryDto.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\CategoryFeature\\Dtos\\GetCategoryDto.cs",
+              "RelativeDocumentMoniker": "Application.app\\Features\\CategoryFeature\\Dtos\\GetCategoryDto.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\CategoryFeature\\Dtos\\GetCategoryDto.cs",
+              "RelativeToolTip": "Application.app\\Features\\CategoryFeature\\Dtos\\GetCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:19:33.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\Domain.app\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Domain.app\\Entities\\Category.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\Domain.app\\Entities\\Category.cs",
+              "RelativeToolTip": "Domain.app\\Entities\\Category.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:13:32.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateCategoryCommand.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\CategoryFeature\\UpdateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Application.app\\Features\\CategoryFeature\\UpdateCategoryCommand.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\CategoryFeature\\UpdateCategoryCommand.cs",
+              "RelativeToolTip": "Application.app\\Features\\CategoryFeature\\UpdateCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:12:46.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddCategoryCommand.cs",
+              "DocumentMoniker": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\CategoryFeature\\AddCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Application.app\\Features\\CategoryFeature\\AddCategoryCommand.cs",
+              "ToolTip": "D:\\Task\\ElectronicsApp\\Application.app\\Features\\CategoryFeature\\AddCategoryCommand.cs",
+              "RelativeToolTip": "Application.app\\Features\\CategoryFeature\\AddCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:51:26.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

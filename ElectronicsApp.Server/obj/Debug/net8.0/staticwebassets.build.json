@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "Hash": "/VLoyO2HfbIGcYj8vwIEXZeBrD8PW3U3TxMcr/C3yLc=",
+  "Source": "ElectronicsApp.Server",
+  "BasePath": "_content/ElectronicsApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Task\\ElectronicsApp\\electronicsapp.client\\electronicsapp.client.esproj",
+      "Version": 2,
+      "Source": "electronicsapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ElectronicsApp.Server\\wwwroot",
+      "Source": "ElectronicsApp.Server",
+      "ContentRoot": "D:\\Task\\ElectronicsApp\\ElectronicsApp.Server\\wwwroot\\",
+      "BasePath": "_content/ElectronicsApp.Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Task\\ElectronicsApp\\ElectronicsApp.Server\\wwwroot\\GeneratedClient\\specification.json",
+      "SourceId": "ElectronicsApp.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Task\\ElectronicsApp\\ElectronicsApp.Server\\wwwroot\\",
+      "BasePath": "_content/ElectronicsApp.Server",
+      "RelativePath": "GeneratedClient/specification#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tgazydkyfe",
+      "Integrity": "Q2o8xDnicHegLLZpxqmLJoxNNRBdFl64t1ipjzVw2uU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\GeneratedClient\\specification.json"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "GeneratedClient/specification.json",
+      "AssetFile": "D:\\Task\\ElectronicsApp\\ElectronicsApp.Server\\wwwroot\\GeneratedClient\\specification.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q2o8xDnicHegLLZpxqmLJoxNNRBdFl64t1ipjzVw2uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 02:11:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q2o8xDnicHegLLZpxqmLJoxNNRBdFl64t1ipjzVw2uU="
+        }
+      ]
+    },
+    {
+      "Route": "GeneratedClient/specification.tgazydkyfe.json",
+      "AssetFile": "D:\\Task\\ElectronicsApp\\ElectronicsApp.Server\\wwwroot\\GeneratedClient\\specification.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q2o8xDnicHegLLZpxqmLJoxNNRBdFl64t1ipjzVw2uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 02:11:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tgazydkyfe"
+        },
+        {
+          "Name": "label",
+          "Value": "GeneratedClient/specification.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q2o8xDnicHegLLZpxqmLJoxNNRBdFl64t1ipjzVw2uU="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "electronicsapp.client\\electronicsapp.client.esproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ElectronicsApp.Server\\ElectronicsApp.Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

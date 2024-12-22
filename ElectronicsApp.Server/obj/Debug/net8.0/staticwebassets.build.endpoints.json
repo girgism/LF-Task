@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "GeneratedClient/specification.json",
+      "AssetFile": "GeneratedClient/specification.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q2o8xDnicHegLLZpxqmLJoxNNRBdFl64t1ipjzVw2uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 02:11:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q2o8xDnicHegLLZpxqmLJoxNNRBdFl64t1ipjzVw2uU="
+        }
+      ]
+    },
+    {
+      "Route": "GeneratedClient/specification.tgazydkyfe.json",
+      "AssetFile": "GeneratedClient/specification.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q2o8xDnicHegLLZpxqmLJoxNNRBdFl64t1ipjzVw2uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 02:11:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tgazydkyfe"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q2o8xDnicHegLLZpxqmLJoxNNRBdFl64t1ipjzVw2uU="
+        },
+        {
+          "Name": "label",
+          "Value": "GeneratedClient/specification.json"
+        }
+      ]
+    }
+  ]
+}

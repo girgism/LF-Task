@@ -1,0 +1,15 @@
+D:\Task\ElectronicsApp\Application.app\bin\Debug\net8.0\Application.app.deps.json
+D:\Task\ElectronicsApp\Application.app\bin\Debug\net8.0\Application.app.dll
+D:\Task\ElectronicsApp\Application.app\bin\Debug\net8.0\Application.app.pdb
+D:\Task\ElectronicsApp\Application.app\bin\Debug\net8.0\Domain.app.dll
+D:\Task\ElectronicsApp\Application.app\bin\Debug\net8.0\Domain.app.pdb
+D:\Task\ElectronicsApp\Application.app\obj\Debug\net8.0\Application.app.csproj.AssemblyReference.cache
+D:\Task\ElectronicsApp\Application.app\obj\Debug\net8.0\Application.app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\ElectronicsApp\Application.app\obj\Debug\net8.0\Application.app.AssemblyInfoInputs.cache
+D:\Task\ElectronicsApp\Application.app\obj\Debug\net8.0\Application.app.AssemblyInfo.cs
+D:\Task\ElectronicsApp\Application.app\obj\Debug\net8.0\Application.app.csproj.CoreCompileInputs.cache
+D:\Task\ElectronicsApp\Application.app\obj\Debug\net8.0\Applicat.B3B45FC0.Up2Date
+D:\Task\ElectronicsApp\Application.app\obj\Debug\net8.0\Application.app.dll
+D:\Task\ElectronicsApp\Application.app\obj\Debug\net8.0\refint\Application.app.dll
+D:\Task\ElectronicsApp\Application.app\obj\Debug\net8.0\Application.app.pdb
+D:\Task\ElectronicsApp\Application.app\obj\Debug\net8.0\ref\Application.app.dll
